@@ -1,7 +1,7 @@
 #write your code here
 integer = 12
 
-def countdown
+def countdown(string)
   while integer > 0 do
     puts "#{integer} SECOND(S)!"
     integer -= 1
